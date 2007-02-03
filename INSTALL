@@ -1,0 +1,7 @@
+INSTALL
+
+1. place the digg.php file in "MediaWiki/extensions/" folder
+
+2. Add the following single line to the end of your LocalSettings.php file
+
+require_once 'extensions/digg.php';
