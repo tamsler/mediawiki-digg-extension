@@ -1,0 +1,6 @@
+# ChangeLog
+
+mediawiki-digg-extension 1.0.0
+==============================
+2007-02-06 Thomas Amsler <tamsler@cal.berkeley.edu>
+* Added new capability such as bgcolor and style 
