@@ -23,13 +23,13 @@
 
  /**
  *
- * @version 1.0.1
+ * @version 1.0.2
  * @author Thomas Amsler
  * @copyright Thomas Amsler 2007
  *
  **/
 
-$wdVersion = '1.0.1';
+$wdVersion = '1.0.2';
 
 $wgExtensionCredits['other'][] = array
   (
